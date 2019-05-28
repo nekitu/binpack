@@ -1,2 +1,3 @@
 # binpack
-Binary packing of images in an atlas
+Binary packing of images in an atlas.
+Author: Jukka Jylänki
